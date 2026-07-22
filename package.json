@@ -1,0 +1,26 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "a basic backend",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/ritikjindal02/backend_local#readme",
+  "bugs": {
+    "url": "https://github.com/ritikjindal02/backend_local/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikjindal02/backend_local.git"
+  },
+  "license": "ISC",
+  "author": "ritik jindal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
